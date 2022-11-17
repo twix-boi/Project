@@ -1,0 +1,3 @@
+Make sure to turn off anti-virus so the scripts can work
+
+Have fun.
